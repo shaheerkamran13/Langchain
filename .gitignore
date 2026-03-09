@@ -1,0 +1,1 @@
+-e "# Environment variables\n.env\n.env.*\n*.env\n\n# Virtual environment\nvenv/\n.venv/\nenv/\nENV/" 
